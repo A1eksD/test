@@ -6,5 +6,5 @@ git pull
 git add .
 git commit -m "%*"
 git push 
-git ftp push REM pusht immer auf den ftp server
+git ftp push &:: pusht immer auf den ftp server
 
